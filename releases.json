@@ -1,0 +1,1 @@
+{"schema":1,"app":{"version":"1.0.0-beta.1","downloadUrl":"","sha256":"","notes":"First functional beta. Unsigned; gameplay confirmation pending."},"games":[{"id":"cup-and-counter","name":"Cup & Counter","trainerVersion":"1.0.0","gameVersion":"2.1.5","notes":"15 features. Exact binary and metadata hashes required; game testing pending."}]}
