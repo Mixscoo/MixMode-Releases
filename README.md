@@ -17,3 +17,6 @@ Cup & Counter support requires exact supported binary/metadata hashes. Gameplay 
 `releases.json` is the public feed consumed by the website API and desktop app. App releases and per-game trainer packages have independent versions and SHA-256 checksums. Game packages can be updated independently, with the trainer stopped.
 
 No advertising, payments or account registration are required.
+
+Automatic updates: install beta.4 Setup.exe or extract its Portable.zip once. Future app versions update on startup; game trainer packages remain independent. Source stays private.
+
