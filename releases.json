@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "app": {
-    "version": "1.0.0-beta.4",
-    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.4/MixModeApp-win-x64-Setup.exe",
-    "sha256": "8acc2012f999eac59607117d8c1881ed34f23310721c9f0820420bd2177e288c",
-    "notes": "Automatic app updates on startup. Game trainer packages update separately. Unsigned testing beta.",
-    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.4/MixModeApp-win-x64-Portable.zip",
+    "version": "1.0.0-beta.5",
+    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.5/MixModeApp-win-x64-Setup.exe",
+    "sha256": "ca04cb505712298c315e55ec882038543bf47d464eb201f165d906e49564ffd8",
+    "notes": "Reworked game pages: guided launch and trainer start, practical Game details, grouped features and expandable usage notes. Automatic app updates on startup.",
+    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.5/MixModeApp-win-x64-Portable.zip",
     "updateChannel": "win-x64"
   },
   "games": [
@@ -15,8 +15,8 @@
       "trainerVersion": "1.0.0",
       "gameVersion": "2.1.5",
       "notes": "15 features. Exact binary and metadata hashes required; game testing pending.",
-      "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.4/cup-and-counter-trainer-1.0.0.zip",
-      "sha256": "ca7f33c36b3d1b04c7eb8dd026f7d691b388f8bba4a9fc08df2771da9db452a9"
+      "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.5/cup-and-counter-trainer-1.0.0.zip",
+      "sha256": "9356d8efa0f1f9f55ee00f5ede54ee3d5a1c2e4d092d3b99ff20c13c3ecbad4a"
     }
   ]
 }
