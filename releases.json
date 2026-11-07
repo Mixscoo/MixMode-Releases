@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "app": {
-    "version": "1.0.0-beta.6",
-    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.6/MixModeApp-win-x64-Setup.exe",
-    "sha256": "0174543a68b2aac2970518e41b452153935d490a61131d0f30888c3eeff9924a",
-    "notes": "Fixes running-game detection blocked by the packaged backend loader. Includes trainer 1.0.1 and accurate connection errors.",
-    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.6/MixModeApp-win-x64-Portable.zip",
+    "version": "1.0.0-beta.7",
+    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.7/MixModeApp-win-x64-Setup.exe",
+    "sha256": "760a5d51aa8cde199cd36e2a2855a111dff6c26f663104e2a8a9efa6cfa9d881",
+    "notes": "Clearer trainer updates and game support checks, all inside MixMode.",
+    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.7/MixModeApp-win-x64-Portable.zip",
     "updateChannel": "win-x64"
   },
   "games": [
@@ -14,9 +14,10 @@
       "name": "Cup & Counter",
       "trainerVersion": "1.0.1",
       "gameVersion": "2.1.5",
-      "notes": "Fixes packaged backend loading; gameplay patch logic and exact build validation are unchanged. Recovery records preserved.",
-      "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.6/cup-and-counter-trainer-1.0.1.zip",
-      "sha256": "324f666a92c7d7ea60a9ba9c1bc28aba756a6303bf57cdb83ae26b33dd9f4292"
+      "notes": "15 features. Exact binary and metadata hashes required; game testing pending.",
+      "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.7/cup-and-counter-trainer-1.0.1.zip",
+      "sha256": "ab7c5eb525cbcd5e7dc1c5a4f9d484ff65030a1848d20e9158ea64a02e77702d",
+      "userNotes": "Improved connection to your running game."
     }
   ]
 }
