@@ -1,12 +1,13 @@
 {
   "schema": 1,
   "app": {
-    "version": "1.0.0-beta.7",
-    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.7/MixModeApp-win-x64-Setup.exe",
-    "sha256": "760a5d51aa8cde199cd36e2a2855a111dff6c26f663104e2a8a9efa6cfa9d881",
-    "notes": "Clearer trainer updates and game support checks, all inside MixMode.",
-    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.7/MixModeApp-win-x64-Portable.zip",
-    "updateChannel": "win-x64"
+    "version": "1.0.0-beta.8",
+    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.8/MixModeApp-win-x64-Setup.exe",
+    "sha256": "82f8cf3579a2ff77f0f696eb8d12607eeaf60cc2852a6de49d730b28d29b936a",
+    "notes": "Trainers now prepare automatically when you select a game or start a session. Updates wait while your session is active. Improved engineering foundation for future games.",
+    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.8/MixModeApp-win-x64-Portable.zip",
+    "updateChannel": "win-x64",
+    "supportedTrainerProtocol": 1
   },
   "games": [
     {
