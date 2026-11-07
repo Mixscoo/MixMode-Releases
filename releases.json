@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "app": {
-    "version": "1.0.0-beta.8",
-    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.8/MixModeApp-win-x64-Setup.exe",
-    "sha256": "82f8cf3579a2ff77f0f696eb8d12607eeaf60cc2852a6de49d730b28d29b936a",
-    "notes": "Trainers now prepare automatically when you select a game or start a session. Updates wait while your session is active. Improved engineering foundation for future games.",
-    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.8/MixModeApp-win-x64-Portable.zip",
+    "version": "1.0.0-beta.9",
+    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.9/MixModeApp-win-x64-Setup.exe",
+    "sha256": "a734611358e100c8e67f129ed1e332f246d0b9c62fe1de9b6a8c340eca17ebb2",
+    "notes": "Simplified Settings: no website connection setup required. Service configuration and suggestion exports are separate operator tools. Suggestions will become available when the online service launches.",
+    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.9/MixModeApp-win-x64-Portable.zip",
     "updateChannel": "win-x64",
     "supportedTrainerProtocol": 1
   },
