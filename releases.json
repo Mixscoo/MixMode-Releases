@@ -1,13 +1,13 @@
 {
   "schema": 1,
   "app": {
-    "version": "1.0.0-beta.9",
-    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.9/MixModeApp-win-x64-Setup.exe",
-    "sha256": "a734611358e100c8e67f129ed1e332f246d0b9c62fe1de9b6a8c340eca17ebb2",
-    "notes": "Simplified Settings: no website connection setup required. Service configuration and suggestion exports are separate operator tools. Suggestions will become available when the online service launches.",
-    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.9/MixModeApp-win-x64-Portable.zip",
-    "updateChannel": "win-x64",
-    "supportedTrainerProtocol": 1
+    "version": "1.0.0-beta.10",
+    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.10/MixModeApp-win-x64-Setup.exe",
+    "sha256": "8f26e6dc57204267070c14b6ebb2785fde9e871e519ec9d6fecfae35a7cd5bba",
+    "notes": "Clear online/offline status, connection details and automatic connection rechecks. Installed compatible trainers remain available offline. Unsigned beta.",
+    "supportedTrainerProtocol": 1,
+    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.10/MixModeApp-win-x64-Portable.zip",
+    "updateChannel": "win-x64"
   },
   "games": [
     {
