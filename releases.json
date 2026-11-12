@@ -13,12 +13,14 @@
     {
       "id": "cup-and-counter",
       "name": "Cup & Counter",
-      "trainerVersion": "1.0.1",
-      "gameVersion": "2.1.5",
       "notes": "15 features. Exact binary and metadata hashes required; game testing pending.",
-      "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.7/cup-and-counter-trainer-1.0.1.zip",
-      "sha256": "ab7c5eb525cbcd5e7dc1c5a4f9d484ff65030a1848d20e9158ea64a02e77702d",
-      "userNotes": "Improved connection to your running game."
+      "trainerVersion": "1.0.3",
+      "gameVersion": "2.1.5",
+      "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/trainer-cup-and-counter-v1.0.3/cup-and-counter-trainer-1.0.3.zip",
+      "sha256": "f96257665c93d566b9cd3938177b8ee9dad7d75c13bdd9315d262afd84cab6d2",
+      "userNotes": "Creator-tested features for game 2.1.5. Includes editable Development Points, staff tools and automatic running-game detection. Exact game build validation remains required.",
+      "minimumAppVersion": "1.0.0",
+      "protocolVersion": 1
     }
   ]
 }
