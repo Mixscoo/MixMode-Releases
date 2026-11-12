@@ -13,7 +13,7 @@
     {
       "id": "cup-and-counter",
       "name": "Cup & Counter",
-      "notes": "15 features. Exact binary and metadata hashes required; game testing pending.",
+      "notes": "15 creator-tested features for the supported game 2.1.5 build. Exact binary and metadata validation required.",
       "trainerVersion": "1.0.3",
       "gameVersion": "2.1.5",
       "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/trainer-cup-and-counter-v1.0.3/cup-and-counter-trainer-1.0.3.zip",
