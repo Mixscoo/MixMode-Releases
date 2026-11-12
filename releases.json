@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "app": {
-    "version": "1.0.0-beta.10",
-    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.10/MixModeApp-win-x64-Setup.exe",
-    "sha256": "8f26e6dc57204267070c14b6ebb2785fde9e871e519ec9d6fecfae35a7cd5bba",
-    "notes": "Clear online/offline status, connection details and automatic connection rechecks. Installed compatible trainers remain available offline. Unsigned beta.",
+    "version": "1.0.0",
+    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0/MixModeApp-win-x64-Setup.exe",
+    "sha256": "c8b8664fcad13730fe73efe7c0bc195b6ff0cc11ebd6508155a2ef4e86855d43",
+    "notes": "First official release. Cup & Counter trainer, automatic game detection, installation selection, desktop and in-game overlay controls, and automatic app updates. Windows x64; unsigned installer.",
     "supportedTrainerProtocol": 1,
-    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0-beta.10/MixModeApp-win-x64-Portable.zip",
+    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.0.0/MixModeApp-win-x64-Portable.zip",
     "updateChannel": "win-x64"
   },
   "games": [
