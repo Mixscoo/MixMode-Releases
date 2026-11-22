@@ -1,38 +1,38 @@
 {
-  "schema": 1,
-  "app": {
-    "version": "1.1.0",
-    "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.0/MixModeApp-win-x64-Setup.exe",
-    "sha256": "701a9058e2e0af322541444b195496cd09eea1c5ae380186a5cc7986a9db9c5c",
-    "notes": "Adds Cooking Simulator 2 (solo play, test release) with automatic trainer download when you select the game, a new option selector for multi-choice features, and Ramen Shop Simulator in the library (trainer not yet available). Windows x64; unsigned installer.",
-    "supportedTrainerProtocol": 1,
-    "portableUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.0/MixModeApp-win-x64-Portable.zip",
-    "updateChannel": "win-x64"
-  },
-  "games": [
-    {
-      "id": "cup-and-counter",
-      "name": "Cup & Counter",
-      "notes": "15 creator-tested features for the supported game 2.1.5 build. Exact binary and metadata validation required.",
-      "trainerVersion": "1.0.3",
-      "gameVersion": "2.1.5",
-      "downloadUrl": "https://github.com/Mixscoo/MixMode-Releases/releases/download/trainer-cup-and-counter-v1.0.3/cup-and-counter-trainer-1.0.3.zip",
-      "sha256": "f96257665c93d566b9cd3938177b8ee9dad7d75c13bdd9315d262afd84cab6d2",
-      "userNotes": "Creator-tested features for game 2.1.5. Includes editable Development Points, staff tools and automatic running-game detection. Exact game build validation remains required.",
-      "minimumAppVersion": "1.0.0",
-      "protocolVersion": 1
-    },
-    {
-      "id": "cooking-simulator-2",
-      "name": "Cooking Simulator 2",
-      "notes": "Solo play only. Test release for Steam build 26103312; exact game build validation required.",
-      "trainerVersion": "0.0.0",
-      "gameVersion": "Steam build 26103312",
-      "downloadUrl": "",
-      "sha256": "",
-      "userNotes": "",
-      "minimumAppVersion": "1.1.0",
-      "protocolVersion": 1
-    }
-  ]
+    "schema":  1,
+    "app":  {
+                "version":  "1.1.0",
+                "downloadUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.0/MixModeApp-win-x64-Setup.exe",
+                "sha256":  "701a9058e2e0af322541444b195496cd09eea1c5ae380186a5cc7986a9db9c5c",
+                "notes":  "Adds Cooking Simulator 2 (solo play, test release) with automatic trainer download when you select the game, a new option selector for multi-choice features, and Ramen Shop Simulator in the library (trainer not yet available). Windows x64; unsigned installer.",
+                "supportedTrainerProtocol":  1,
+                "portableUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.0/MixModeApp-win-x64-Portable.zip",
+                "updateChannel":  "win-x64"
+            },
+    "games":  [
+                  {
+                      "id":  "cup-and-counter",
+                      "name":  "Cup \u0026 Counter",
+                      "notes":  "15 creator-tested features for the supported game 2.1.5 build. Exact binary and metadata validation required.",
+                      "trainerVersion":  "1.0.3",
+                      "gameVersion":  "2.1.5",
+                      "downloadUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/trainer-cup-and-counter-v1.0.3/cup-and-counter-trainer-1.0.3.zip",
+                      "sha256":  "f96257665c93d566b9cd3938177b8ee9dad7d75c13bdd9315d262afd84cab6d2",
+                      "userNotes":  "Creator-tested features for game 2.1.5. Includes editable Development Points, staff tools and automatic running-game detection. Exact game build validation remains required.",
+                      "minimumAppVersion":  "1.0.0",
+                      "protocolVersion":  1
+                  },
+                  {
+                      "id":  "cooking-simulator-2",
+                      "name":  "Cooking Simulator 2",
+                      "notes":  "Solo play only. Test release for Steam build 26103312; exact game build validation required.",
+                      "trainerVersion":  "0.1.5",
+                      "gameVersion":  "Steam build 26103312",
+                      "downloadUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/trainer-cooking-simulator-2-v0.1.5/cooking-simulator-2-trainer-0.1.5.zip",
+                      "sha256":  "b430298e89faa737a1d64666a41326eb80ccc25edaa36bd7f9199d290ddf2ecf",
+                      "userNotes":  "First release for Cooking Simulator 2 (Steam build 26103312), solo play only. Money, renown, skill points, experience, faster cooking with target doneness, free purchases, instant delivery, no burning, perfect dishes, unlimited ingredients, no spoilage and patient customers.",
+                      "minimumAppVersion":  "1.1.0",
+                      "protocolVersion":  1
+                  }
+              ]
 }
