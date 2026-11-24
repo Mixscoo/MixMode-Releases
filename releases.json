@@ -26,11 +26,11 @@
                       "id":  "cooking-simulator-2",
                       "name":  "Cooking Simulator 2",
                       "notes":  "Solo play only. Test release for Steam build 26103312; exact game build validation required.",
-                      "trainerVersion":  "0.1.6",
+                      "trainerVersion":  "0.1.7",
                       "gameVersion":  "Steam build 26103312",
-                      "downloadUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/trainer-cooking-simulator-2-v0.1.6/cooking-simulator-2-trainer-0.1.6.zip",
-                      "sha256":  "c0633f9df0999e1e4b16de5669c183e927a2652654cac36bf09a0c79acfcb6cf",
-                      "userNotes":  "Solo play only. Test release for Steam build 26103312; exact game build validation required. Upgrades support left by earlier MixMode trainers automatically from MixMode\u0027s own verified backup.",
+                      "downloadUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/trainer-cooking-simulator-2-v0.1.7/cooking-simulator-2-trainer-0.1.7.zip",
+                      "sha256":  "ef01a0bd1dc88d7e6c3bb907667f1f23362ce792cff73cd4b0fb12f21a6cbd02",
+                      "userNotes":  "Solo play only. Test release for Steam build 26103312; exact game build validation required. Upgrades earlier MixMode trainer support; a helper-only upgrade no longer needs the original-file backup.",
                       "minimumAppVersion":  "1.1.0",
                       "protocolVersion":  1
                   }
