@@ -1,12 +1,12 @@
 {
     "schema":  1,
     "app":  {
-                "version":  "1.1.0",
-                "downloadUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.0/MixModeApp-win-x64-Setup.exe",
-                "sha256":  "701a9058e2e0af322541444b195496cd09eea1c5ae380186a5cc7986a9db9c5c",
-                "notes":  "Adds Cooking Simulator 2 (solo play, test release) with automatic trainer download when you select the game, a new option selector for multi-choice features, and Ramen Shop Simulator in the library (trainer not yet available). Windows x64; unsigned installer.",
+                "version":  "1.1.1",
+                "downloadUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.1/MixModeApp-win-x64-Setup.exe",
+                "sha256":  "c2f32207727207ef43099df6f1f1f05cacc0b838d80f3666ee04adc48cf0191d",
+                "notes":  "Simpler game setup: MixMode prepares each trainer automatically and shows a plain status with Try again when setup fails. Repair and Remove moved into a collapsed Troubleshooting section. Fixes broken dot characters in labels. Windows x64; unsigned installer.",
                 "supportedTrainerProtocol":  1,
-                "portableUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.0/MixModeApp-win-x64-Portable.zip",
+                "portableUrl":  "https://github.com/Mixscoo/MixMode-Releases/releases/download/v1.1.1/MixModeApp-win-x64-Portable.zip",
                 "updateChannel":  "win-x64"
             },
     "games":  [
